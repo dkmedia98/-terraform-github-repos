@@ -1,0 +1,10 @@
+# Copy thành terraform.tfvars rồi sửa cho phù hợp
+github_owner = "your-github-username-or-org"
+repo_count   = 10
+repo_prefix  = "repo"
+visibility   = "private"
+auto_init    = true
+
+# gitignore_template = "Terraform"
+# license_template   = "mit"
+# topics             = ["terraform", "demo"]
